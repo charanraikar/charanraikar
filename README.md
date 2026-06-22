@@ -103,15 +103,15 @@ ConvNeXt-Base + DDPM + Grad-CAM
 
 <td width="50%">
 
-### 🎵 Music Recommendation System
+### 🎉 Event Management Platform
 
-🎯 Custom ID3 Decision Tree
+🥽 Google ARCore Venue Planning
 
-🎧 Deezer API Integration
+🤖 LLM-powered Recommendations
 
-📊 90% Classification Accuracy
+🌐 Full Stack Development
 
-🌐 Flask Web Application
+👥 Team Lead (4 Members)
 
 <br>
 
