@@ -139,8 +139,8 @@ AI & Machine Learning Engineer | Building Intelligent Systems 🚀
 
 <br>
 
-<a href="#">
-<img src="https://github.com/charanraikar/superdense-main.git"/>
+<a href="https://github.com/charanraikar/superdense-main.git">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
