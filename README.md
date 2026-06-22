@@ -171,7 +171,7 @@ AI & Machine Learning Engineer | Building Intelligent Systems 🚀
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/charan-raikar">
+<a href="https://www.linkedin.com/in/charanraikar?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
