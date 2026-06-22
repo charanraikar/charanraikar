@@ -103,7 +103,7 @@ ConvNeXt-Base + DDPM + Grad-CAM
 
 <td width="50%">
 
-### 🎉 Event Management Platform
+### 🎉 Event Management Platform with AR & LLM-based Recommendations
 
 🥽 Google ARCore Venue Planning
 
