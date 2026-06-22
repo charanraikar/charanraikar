@@ -123,20 +123,24 @@ AI & Machine Learning Engineer | Building Intelligent Systems 🚀
 
 <td width="50%">
 
-### 🏥 Healthcare Disease Prediction
+### ⚛️ Superdense Coding Implementation
 
-📊 Clinical Dataset Analysis
+🔹 Quantum Communication using Qiskit
 
-🤖 Scikit-Learn Models
+📡 Transmit 2 Classical Bits using 1 Qubit
 
-🎯 Early Disease Detection
+⚡ Ideal, Noisy & Imperfect Quantum Simulations
 
-🚧 Research Project
+🧪 Depolarizing Noise & Gate Error Analysis
+
+📊 Fidelity Heatmaps & Success Rate Evaluation
+
+🚀 IBM Quantum Hardware Compatible
 
 <br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Research%20Project-blue?style=for-the-badge"/>
+<img src="https://github.com/charanraikar/superdense-main.git"/>
 </a>
 
 </td>
