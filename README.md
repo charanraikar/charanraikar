@@ -79,19 +79,18 @@ AI & Machine Learning Engineer | Building Intelligent Systems 🚀
 
 <td width="50%">
 
-### 🎉 Event Management Platform
+### 🫁 Pneumonia Detection System
+ConvNeXt-Base + DDPM + Grad-CAM
 
-🥽 Google ARCore Venue Planning
-
-🤖 LLM-powered Recommendations
-
-🌐 Full Stack Development
-
-👥 Team Lead (4 Members)
+🎯 ~95% Test Accuracy | 0.987 AUC-ROC
+🔬 Diffusion-based data augmentation (DDPM)
+🔍 Explainability via X-Grad-CAM heatmaps
+🚀 Production-ready FastAPI web interface
+📊 PSNR/SSIM quality metrics integrated
 
 <br>
 
-<a href="https://github.com/CharanRaikar/Event-Management-Platform">
+<a href="https://github.com/charanraikar/pneumonia-detection-main.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
