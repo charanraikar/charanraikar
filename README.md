@@ -162,15 +162,6 @@ ConvNeXt-Base + DDPM + Grad-CAM
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CharanRaikar&theme=tokyonight"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="left">
