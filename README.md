@@ -68,7 +68,7 @@ AI & Machine Learning Engineer | Building Intelligent Systems 🚀
 <br>
 
 <a href="https://github.com/CharanRaikar/Scaling-Naive-Bayes">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/workingonit-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
