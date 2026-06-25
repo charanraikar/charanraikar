@@ -115,7 +115,7 @@ ConvNeXt-Base + DDPM + Grad-CAM
 
 <br>
 
-<a href="https://github.com/CharanRaikar/Music-Recommendation-System">
+<a href="https://github.com/charanraikar/Event-Management-Platform-with-AR-LLM-based-Recommendations.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
