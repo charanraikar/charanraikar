@@ -6,9 +6,7 @@
 AI & Machine Learning Engineer • M.Tech Computer Science • Building Intelligent AI Solutions 🚀
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Large+Language+Models+(LLMs);Computer+Vision;Healthcare+AI;High+Performance+Computing;Always+Learning+🚀" />
-</p>
+
 
 <p align="center">
 Passionate about designing AI systems that solve real-world problems using Machine Learning, Deep Learning, NLP, Computer Vision, Recommendation Systems, and High Performance Computing.
