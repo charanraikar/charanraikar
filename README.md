@@ -199,22 +199,28 @@ ConvNeXt-Base + DDPM + Grad-CAM
 
 </table>
 ---
-# 📫 Connect With Me
+---
 
-<p align="left">
+<h3 align="center">📬 Connect With Me</h3>
 
-<a href="https://www.linkedin.com/in/charanraikar?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/charanraikar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:raikarcharan64@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:raikarcharan64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
+<h3 align="center">
 ⚡ Transforming Ideas into Intelligent Products ⚡
+</h3>
+
+<p align="center">
+<i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
