@@ -201,13 +201,13 @@ ConvNeXt-Base + DDPM + Grad-CAM
 ---
 ---
 
-<h3 align="center">📬 Connect With Me</h3>
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/charanraikar">
+  <a href="https://www.linkedin.com/in/charanraikar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:raikarcharan64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -215,12 +215,12 @@ ConvNeXt-Base + DDPM + Grad-CAM
 
 ---
 
-<h3 align="center">
-⚡ Transforming Ideas into Intelligent Products ⚡
-</h3>
+<h2 align="center">⚡ Transforming Ideas into Intelligent Products ⚡</h2>
 
 <p align="center">
 <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&section=footer"/>
+</p>
