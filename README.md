@@ -1,30 +1,36 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Charan Raikar</h1>
 
 <h3 align="center">
-AI & Machine Learning Engineer | M.Tech Computer Science | Building Intelligent AI Solutions 🚀
+AI & Machine Learning Engineer • M.Tech Computer Science • Building Intelligent AI Solutions 🚀
 </h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Large Language Models, Deep Learning, Computer Vision, Recommendation Systems, and High Performance Computing.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Large+Language+Models+(LLMs);Computer+Vision;Healthcare+AI;High+Performance+Computing;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+Passionate about designing AI systems that solve real-world problems using Machine Learning, Deep Learning, NLP, Computer Vision, Recommendation Systems, and High Performance Computing.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 M.Tech in Computer Science Engineering
+🎓 Pursuing **M.Tech in Computer Science Engineering**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Development
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**
 
-🧠 Interested in Large Language Models (LLMs), Deep Learning, NLP, Computer Vision, and Recommendation Systems
+🧠 Research interests include **Large Language Models (LLMs), NLP, Computer Vision, Deep Learning, and Recommendation Systems**
 
-⚡ Exploring CUDA, MPI, Parallel Computing, and High Performance Computing (HPC)
+⚡ Exploring **CUDA, MPI, Parallel Computing, and High Performance Computing (HPC)**
 
-🔬 Currently working on AI Research in Healthcare and Intelligent Systems
+🔬 Currently working on **Healthcare AI Research** and intelligent recommendation systems
 
-🚀 Building AI-powered applications that solve real-world problems
+🚀 Building scalable AI-powered applications with real-world impact
 
-🌱 Continuously learning new technologies and improving my development skills
+🌱 Continuously learning new technologies and contributing to innovative AI solutions
 
 ---
 
@@ -36,8 +42,8 @@ Passionate about Artificial Intelligence, Machine Learning, Large Language Model
 * 👁️ Computer Vision
 * 🎯 Recommendation Systems
 * 🩺 Healthcare AI
-* ⚡ CUDA & High Performance Computing
-* 🌐 Full Stack AI Applications
+* ⚡ CUDA, MPI & High Performance Computing
+* 🌐 AI-Powered Full Stack Development
 
 ---
 
@@ -88,8 +94,8 @@ Passionate about Artificial Intelligence, Machine Learning, Large Language Model
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
